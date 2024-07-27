@@ -7,7 +7,7 @@
     "test": "test",
     "start": "node server.js"
   },
-  "author": "Aditya Raval",
+  "author": "Maihar Shrivastava",
   "homepage": "https://github.com/adityaraval/paytm-integration-nodejs-express#readme",
   "license": "MIT",
   "dependencies": {
